@@ -101,7 +101,7 @@ export const productsData = [
     category: 'Crochet Bags',
     price: 550,
     description: 'Stylish crochet water bottle holder for on-the-go hydration.',
-    image: 'assets/water bottle holder.jpg',
+    image: 'assets/water bottle holders.jpg',
   },
   {
     id: 14,
