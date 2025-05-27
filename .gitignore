@@ -1,0 +1,61 @@
+# Node.js and npm
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn.lock
+
+# Vite build output
+dist/
+dist-ssr/
+*.local
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Dependency caches
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.eslintcache
+.vite/
+.cache/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Test coverage
+coverage/
+*.lcov
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+*~
+
+# Build artifacts
+*.min.js
+*.min.css
