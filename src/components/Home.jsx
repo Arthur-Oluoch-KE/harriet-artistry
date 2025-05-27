@@ -6,7 +6,7 @@ function Home() {
           Welcome to Harriet's Artistry - Handmade Crochet Clothing
         </h1>
         <p className="section-home-text">
-          Discover our unique collection of sustainable crochet beanies, sweaters, and dresses, handmade with love.
+          Discover our unique collection of beautiful sustainable crochet beanies, shirts, hats, crochet tops, tote bags, scrunchies and many more products handmade with love.
         </p>
       </div>
     </section>
